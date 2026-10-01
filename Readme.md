@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александр Комаров](https://up.htmlacademy.ru/htmlcss-individual/3/user/2719107).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец] (https://htmlacademy.ru/profile/seraphim).
 
 ---
 
